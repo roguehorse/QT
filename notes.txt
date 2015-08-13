@@ -1,0 +1,4 @@
+# Qt Practice #
+# 
+# Scott DuBois
+# Wed Aug 12 20:11:40 PDT 2015
